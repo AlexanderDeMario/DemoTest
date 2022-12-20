@@ -1,6 +1,6 @@
 package String;
 import java.util.*;
-
+//vhuaskdhbjbdakjndknlkasldnkl
 public class ArrrayList 
 {
 	public static void main(String []args)
