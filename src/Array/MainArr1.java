@@ -19,5 +19,5 @@ public static int getDifference(int ar[])
      
 
 	}
-
+//changes in mainArr1 class
 }
